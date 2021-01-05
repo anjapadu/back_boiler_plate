@@ -33,7 +33,7 @@
     "@babel/polyfill": "^7.4.3",
     "@babel/runtime": "^7.4.3",
     "async": "^2.6.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-loader": "^8.0.5",
     "body-parser": "^1.19.0",
     "connect-gzip-static": "^2.1.1",
